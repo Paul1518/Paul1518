@@ -4,6 +4,9 @@
 
 I'm thrilled to have you here! I'm an ambitious 18-year-old university student passionate about the world of computer science and engineering, with a focus on the fascinating field of data science. As I embark on my journey to merge technology and data to uncover meaningful insights, I invite you to join me on this exciting adventure.
 
+![pin_darkimg_2](https://github.com/Paul1518/Profile/assets/96533175/7790070a-0f1f-47e2-80dd-caec0d7af092)
+***
+
 Being a Computer Science and Engineering major has equipped me with a solid foundation in programming, algorithm design, and software development. However, my true passion lies in exploring the vast universe of data and transforming it into valuable knowledge. I am constantly driven to unravel hidden patterns, make predictions, and create innovative solutions using the power of data.
 
 Through my GitHub repository, I aim to share my coding projects, experiments, and contributions to the world of data science. From machine learning algorithms and data visualization techniques to data preprocessing and exploratory analysis, I strive to explore the entire spectrum of data science methodologies.
