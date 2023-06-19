@@ -28,6 +28,9 @@ Thank you for visiting my GitHub profile, and I look forward to connecting with 
 Best regards,
 Paul.
 
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul1518&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul1518&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
