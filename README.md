@@ -20,8 +20,8 @@ But it's not just about 2the technical aspects for me. Collaboration and open-so
 ![pin_darkimg_5](https://github.com/Paul1518/Profile/assets/96533175/71245553-9e5e-469e-931d-dd16123c4dbb)
 ***
 So, come along and explore the wonders of data science with me! Let's learn, create, and innovate together as we unravel the mysteries hidden within the vast expanse of data. Feel free to explore my repositories, share your thoughts, and collaborate on projects that ignite our curiosity.
-![pin_darkimg_6](https://github.com/Paul1518/Profile/assets/96533175/535d8efa-af9e-4b78-bcee-81b132147508)
 
+![pin_darkimg_6](https://github.com/Paul1518/Profile/assets/96533175/535d8efa-af9e-4b78-bcee-81b132147508)
 ***
 Thank you for visiting my GitHub profile, and I look forward to connecting with you!
 
